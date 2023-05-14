@@ -673,6 +673,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 <a href="https://github.com/myliwenbo" title="myliwenbo">
   <img src="https://avatars.githubusercontent.com/u/29202248?v=4" width="42;" alt="myliwenbo"/>
 </a>
+<a href="https://github.com/muggledy" title="muggledy">
+  <img src="https://avatars.githubusercontent.com/u/26343222?v=4" width="42;" alt="muggledy"/>
+</a>
 <a href="https://github.com/z-anshun" title="noodles2hg">
   <img src="https://avatars.githubusercontent.com/u/57032282?v=4" width="42;" alt="noodles2hg"/>
 </a>
